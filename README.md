@@ -1,6 +1,6 @@
 # ICS3U/ICS4U Java Projects
 
-A collection of Java code from ICS3U and ICS4U courses.
+A collection of Java code from my ICS3U and ICS4U courses.
 
 ## Structure
 
