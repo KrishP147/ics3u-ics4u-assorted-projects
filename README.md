@@ -1,7 +1,5 @@
 # ICS3U/ICS4U Java Projects
 
-A collection of Java code from my ICS3U and ICS4U courses.
-
 ## Structure
 
 - `projects/` - Assignments and projects with dated header comments
